@@ -1,0 +1,101 @@
+BorrowerID,BorrowerName,BookTitle,CheckoutDate,DueDate,ReturnStatus,PendingFine
+C001,Anjali Verma,Project Hail Mary,2026-07-09,2026-07-23,Overdue,Rs 40
+C002,Sneha Bose,Project Hail Mary,2026-07-15,2026-07-29,Overdue,Rs 10
+C003,Karan Das,The Great Gatsby,2026-07-15,2026-07-29,Overdue,Rs 10
+C004,Meera Reddy,The Great Gatsby,2026-07-29,2026-08-12,Returned,Rs 0
+C005,Neha Patel,Project Hail Mary,2026-06-21,2026-07-05,Overdue,Rs 130
+C006,Pooja Singh,Atomic Habits,2026-07-22,2026-08-05,Borrowed,Rs 0
+C007,Aditya Rao,Atomic Habits,2026-07-24,2026-08-07,Returned,Rs 0
+C008,Arjun Mishra,The Great Gatsby,2026-07-14,2026-07-28,Overdue,Rs 15
+C009,Rohan Nair,Atomic Habits,2026-07-06,2026-07-20,Returned,Rs 0
+C010,Vikram Joshi,To Kill a Mockingbird,2026-07-25,2026-08-08,Borrowed,Rs 0
+C011,Ravi Rao,Sapiens,2026-07-17,2026-07-31,Borrowed,Rs 0
+C012,Sita Das,Dune,2026-07-07,2026-07-21,Returned,Rs 0
+C013,Divya Singh,The Lord of the Rings,2026-06-28,2026-07-12,Returned,Rs 0
+C014,Sita Chawla,The Kite Runner,2026-07-19,2026-08-02,Borrowed,Rs 0
+C015,Pooja Rao,A Man Called Ove,2026-07-23,2026-08-06,Borrowed,Rs 0
+C016,Aditya Nair,The Kite Runner,2026-07-05,2026-07-19,Overdue,Rs 60
+C017,Vikram Singh,Project Hail Mary,2026-06-26,2026-07-10,Overdue,Rs 105
+C018,Neha Mishra,The Lord of the Rings,2026-06-21,2026-07-05,Returned,Rs 0
+C019,Meera Nair,Pride and Prejudice,2026-07-26,2026-08-09,Returned,Rs 0
+C020,Suresh Desai,A Man Called Ove,2026-07-20,2026-08-03,Returned,Rs 0
+C021,Priya Joshi,A Man Called Ove,2026-07-18,2026-08-01,Borrowed,Rs 0
+C022,Divya Tiwari,The Silent Patient,2026-07-06,2026-07-20,Overdue,Rs 55
+C023,Suresh Patel,Project Hail Mary,2026-06-22,2026-07-06,Overdue,Rs 125
+C024,Ravi Singh,Sapiens,2026-07-05,2026-07-19,Overdue,Rs 60
+C025,Kavita Gupta,To Kill a Mockingbird,2026-07-02,2026-07-16,Returned,Rs 0
+C026,Vikram Rao,A Man Called Ove,2026-07-28,2026-08-11,Borrowed,Rs 0
+C027,Ravi Bose,The Secret History,2026-07-20,2026-08-03,Borrowed,Rs 0
+C028,Kavita Nair,Pride and Prejudice,2026-07-22,2026-08-05,Returned,Rs 0
+C029,Vikram Singh,The Great Gatsby,2026-06-27,2026-07-11,Overdue,Rs 100
+C030,Kavita Tiwari,Dune,2026-06-28,2026-07-12,Overdue,Rs 95
+C031,Sneha Das,The Lord of the Rings,2026-06-28,2026-07-12,Returned,Rs 0
+C032,Rohan Rao,To Kill a Mockingbird,2026-06-30,2026-07-14,Overdue,Rs 85
+C033,Sita Nair,The Lord of the Rings,2026-07-02,2026-07-16,Overdue,Rs 75
+C034,Vikram Desai,Sapiens,2026-06-30,2026-07-14,Overdue,Rs 85
+C035,Neha Desai,The Silent Patient,2026-07-01,2026-07-15,Returned,Rs 0
+C036,Manish Bose,Sapiens,2026-07-28,2026-08-11,Returned,Rs 0
+C037,Vikram Reddy,The Great Gatsby,2026-07-06,2026-07-20,Overdue,Rs 55
+C038,Priya Mishra,Sapiens,2026-06-27,2026-07-11,Returned,Rs 0
+C039,Aditya Kumar,Project Hail Mary,2026-07-26,2026-08-09,Borrowed,Rs 0
+C040,Ravi Joshi,Sapiens,2026-06-26,2026-07-10,Overdue,Rs 105
+C041,Aditya Tiwari,To Kill a Mockingbird,2026-07-05,2026-07-19,Overdue,Rs 60
+C042,Neha Patel,The Kite Runner,2026-07-02,2026-07-16,Overdue,Rs 75
+C043,Divya Nair,The Kite Runner,2026-07-16,2026-07-30,Overdue,Rs 5
+C044,Sneha Rao,Project Hail Mary,2026-07-25,2026-08-08,Borrowed,Rs 0
+C045,Meera Chawla,The Silent Patient,2026-07-30,2026-08-13,Borrowed,Rs 0
+C046,Kavita Chawla,The Alchemist,2026-07-27,2026-08-10,Returned,Rs 0
+C047,Vikram Kumar,The Kite Runner,2026-07-10,2026-07-24,Overdue,Rs 35
+C048,Sneha Desai,1984,2026-06-26,2026-07-10,Overdue,Rs 105
+C049,Suresh Chawla,Sapiens,2026-06-28,2026-07-12,Returned,Rs 0
+C050,Sneha Reddy,Pride and Prejudice,2026-07-02,2026-07-16,Overdue,Rs 75
+C051,Divya Sharma,The Secret History,2026-07-17,2026-07-31,Borrowed,Rs 0
+C052,Aditya Singh,The Lord of the Rings,2026-07-27,2026-08-10,Returned,Rs 0
+C053,Riya Mishra,The Silent Patient,2026-06-22,2026-07-06,Returned,Rs 0
+C054,Neha Joshi,1984,2026-07-13,2026-07-27,Overdue,Rs 20
+C055,Neha Bose,Harry Potter,2026-07-12,2026-07-26,Returned,Rs 0
+C056,Riya Reddy,The Silent Patient,2026-07-26,2026-08-09,Borrowed,Rs 0
+C057,Aditya Sharma,Harry Potter,2026-07-12,2026-07-26,Returned,Rs 0
+C058,Manish Desai,Pride and Prejudice,2026-07-02,2026-07-16,Overdue,Rs 75
+C059,Sita Verma,Project Hail Mary,2026-07-12,2026-07-26,Overdue,Rs 25
+C060,Aditya Das,Pride and Prejudice,2026-06-26,2026-07-10,Overdue,Rs 105
+C061,Priya Patel,To Kill a Mockingbird,2026-07-27,2026-08-10,Returned,Rs 0
+C062,Anjali Verma,To Kill a Mockingbird,2026-06-22,2026-07-06,Overdue,Rs 125
+C063,Pooja Reddy,Atomic Habits,2026-07-22,2026-08-05,Borrowed,Rs 0
+C064,Amit Singh,The Silent Patient,2026-07-25,2026-08-08,Returned,Rs 0
+C065,Rohan Kumar,Project Hail Mary,2026-06-26,2026-07-10,Overdue,Rs 105
+C066,Priya Rao,The Great Gatsby,2026-06-21,2026-07-05,Overdue,Rs 130
+C067,Rahul Reddy,Pride and Prejudice,2026-06-29,2026-07-13,Overdue,Rs 90
+C068,Karan Nair,Harry Potter,2026-07-24,2026-08-07,Borrowed,Rs 0
+C069,Meera Reddy,Atomic Habits,2026-06-21,2026-07-05,Returned,Rs 0
+C070,Neha Bose,The Secret History,2026-07-12,2026-07-26,Returned,Rs 0
+C071,Aditya Reddy,The Lord of the Rings,2026-07-26,2026-08-09,Returned,Rs 0
+C072,Pooja Nair,Project Hail Mary,2026-07-02,2026-07-16,Overdue,Rs 75
+C073,Suresh Bose,A Man Called Ove,2026-06-27,2026-07-11,Overdue,Rs 100
+C074,Neha Desai,The Silent Patient,2026-07-08,2026-07-22,Overdue,Rs 45
+C075,Rahul Gupta,Dune,2026-07-21,2026-08-04,Borrowed,Rs 0
+C076,Sita Reddy,The Alchemist,2026-06-30,2026-07-14,Returned,Rs 0
+C077,Vikram Reddy,Dune,2026-07-04,2026-07-18,Overdue,Rs 65
+C078,Vikram Desai,The Kite Runner,2026-07-26,2026-08-09,Returned,Rs 0
+C079,Riya Patel,The Alchemist,2026-07-08,2026-07-22,Returned,Rs 0
+C080,Manish Das,The Kite Runner,2026-07-20,2026-08-03,Borrowed,Rs 0
+C081,Aditya Verma,Sapiens,2026-07-25,2026-08-08,Borrowed,Rs 0
+C082,Sneha Verma,The Secret History,2026-06-24,2026-07-08,Overdue,Rs 115
+C083,Suresh Gupta,The Alchemist,2026-07-01,2026-07-15,Returned,Rs 0
+C084,Rahul Desai,Project Hail Mary,2026-07-02,2026-07-16,Overdue,Rs 75
+C085,Ravi Bose,Harry Potter,2026-07-03,2026-07-17,Overdue,Rs 70
+C086,Sita Patel,The Alchemist,2026-07-09,2026-07-23,Overdue,Rs 40
+C087,Manish Kumar,The Secret History,2026-06-25,2026-07-09,Overdue,Rs 110
+C088,Kavita Chawla,The Silent Patient,2026-07-23,2026-08-06,Returned,Rs 0
+C089,Divya Kumar,1984,2026-06-30,2026-07-14,Overdue,Rs 85
+C090,Vikram Chawla,The Great Gatsby,2026-07-11,2026-07-25,Overdue,Rs 30
+C091,Rohan Rao,The Silent Patient,2026-07-15,2026-07-29,Overdue,Rs 10
+C092,Karan Singh,A Man Called Ove,2026-06-21,2026-07-05,Returned,Rs 0
+C093,Neha Sharma,Atomic Habits,2026-07-02,2026-07-16,Overdue,Rs 75
+C094,Suresh Das,The Lord of the Rings,2026-07-16,2026-07-30,Overdue,Rs 5
+C095,Kavita Reddy,The Silent Patient,2026-06-22,2026-07-06,Overdue,Rs 125
+C096,Karan Patel,The Silent Patient,2026-06-23,2026-07-07,Returned,Rs 0
+C097,Neha Patel,The Kite Runner,2026-07-14,2026-07-28,Overdue,Rs 15
+C098,Sneha Mishra,Project Hail Mary,2026-07-29,2026-08-12,Borrowed,Rs 0
+C099,Anjali Sharma,Harry Potter,2026-06-30,2026-07-14,Overdue,Rs 85
+C100,Meera Das,Atomic Habits,2026-06-24,2026-07-08,Overdue,Rs 115
